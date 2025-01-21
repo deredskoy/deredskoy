@@ -1,4 +1,6 @@
-## Hi there 👋
+🌱 Currently learning Advanced Swift and SwiftUI.
+🔨 Building a first app: Currency Converter.
+🇺🇦 Support Ukraine! 🇺🇦
 
 <!--
 **deredskoy/deredskoy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
