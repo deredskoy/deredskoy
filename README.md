@@ -1,4 +1,4 @@
-🌱 Currently learning Advanced Swift and SwiftUI.
+🌱 Currently learning Advanced Swift, SwiftUI, Tailwind 4.
 
 🔨 Building a first app: Currency Converter.
 
