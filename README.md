@@ -1,9 +1,4 @@
-🌱 Currently learning Advanced Swift, SwiftUI, Tailwind 4.
-
-🔨 Building a first app: Currency Converter.
-
-🇺🇦 Support Ukraine! 🇺🇦
-
+🌱 Currently learning: Python Introduction with Scrimba.
 
 <!--
 **deredskoy/deredskoy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
