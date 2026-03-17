@@ -1,4 +1,4 @@
-🌱 Currently learning: Python Introduction with Scrimba.
+🌱 Currently learning: SwiftUI.
 
 <!--
 **deredskoy/deredskoy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
